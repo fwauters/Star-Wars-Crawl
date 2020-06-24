@@ -5,13 +5,13 @@ body {
   background-color: #000;
 }
 
-.background {
+/*.background {
   width: 100vw;
   height: 100vh;
   z-index: 2;
   background-image: url("sw-background.jpg");
   animation: stars 2s forwards 8s;
-}
+} */
 
 .intro {
   margin: auto;
